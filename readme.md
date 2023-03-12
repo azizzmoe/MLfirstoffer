@@ -1,1 +1,1 @@
-[Play here](https://azzizmoe.github.io/MLfirstoffer/)
+[Play here](https://azizzmoe.github.io/MLfirstoffer/)
